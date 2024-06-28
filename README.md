@@ -1,7 +1,6 @@
 # Simple Mern-ExpressJS-API
 A Simple MERN Stack API using Express JS, Mongo DB for Beginners
 
-```markdown
 # Vendor and User Management API
 
 This is a Node.js application built with Express and MongoDB for managing vendors and users. The API allows for creating, reading, updating, and deleting vendors and users.
